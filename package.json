@@ -1,0 +1,15 @@
+{
+  "name": "raccoonpattern",
+  "version": "1.0.0",
+  "description": "design pattern example code from raccoon (refactoring.guru)",
+  "scripts": {
+    "start": "npm run build && node build/index.js",
+    "build": "tsc --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.3",
+    "typescript": "^4.7.4"
+  }
+}
